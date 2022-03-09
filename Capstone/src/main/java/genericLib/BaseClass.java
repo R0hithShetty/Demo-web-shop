@@ -35,7 +35,7 @@ import pomRepo.TC_RegistrationPage_001;
 
 	/***
 	 * 
-	 * @author Sindhu
+	 * @author ROHITH M
 	 *
 	 */
 
@@ -45,20 +45,7 @@ import pomRepo.TC_RegistrationPage_001;
 		public ExcelLib elib=new ExcelLib();
 		public WebDriverWait explicitWait;
 		public TC_LoginPage_001 loginPage;
-//	    public TC_ComputerPage_001 computersTab;
-//	    public TC_ComputerPage_001 desktops;
-//	    public TC_ComputerPage_001 sortby;
-//	    public TC_ComputerPage_001 optionZtoA;
-//	    public TC_ComputerPage_001 display;
-//	    public TC_ComputerPage_001 option12;
-//	    public TC_ComputerPage_001 viewas;
-//	    public TC_ComputerPage_001 listoption;
-//	    public TC_ComputerPage_001 product;
-//	    public TC_ComputerPage_001 addtocart;
-//	    public TC_ComputerPage_001 addtocartnotebook;
-//	    public TC_ComputerPage_001 addtocartaccessories;
-//	    public TC_ComputerPage_001 logout;
-	    //////////////////////////////////////////
+
 	    public TC_RegistrationPage_001 registration;
 	    public TC_RegistrationPage_001 radiobutton;
 	    public TC_RegistrationPage_001 firstname1;
@@ -66,22 +53,7 @@ import pomRepo.TC_RegistrationPage_001;
 	    public TC_RegistrationPage_001 email1;
 	    public TC_RegistrationPage_001 password1;
 	    public TC_RegistrationPage_001 confirmpassword1;
-//	    public TC_ComputerPage_001 notebooks;
-//	    public TC_ComputerPage_001 accessories;
-	    ////////////////////////////////////////
-//	    public TC_ElectronicsPage_001 electronicsTab;
-//	    public TC_ElectronicsPage_001 camera;
-//	    public TC_ElectronicsPage_001 sortby1;
-//	    public TC_ElectronicsPage_001 optionZtoA1;
-//	    public TC_ElectronicsPage_001 display1;
-//	    public TC_ElectronicsPage_001 option121;
-//	    public TC_ElectronicsPage_001 viewas1;
-//	    public TC_ElectronicsPage_001 listoption1;
-//	    public TC_ElectronicsPage_001 product1;
-//	    public TC_ElectronicsPage_001 logout1;
-//	    public TC_ElectronicsPage_001 cellphones;
-//	    public TC_ElectronicsPage_001 addtocart1;
-	    //////////////////////////////////////////////////
+
 	    public TC_JewelryPage_001 jewelryTab;
 	    public TC_JewelryPage_001  sortby2;
 	    public TC_JewelryPage_001 optionZtoA2;
@@ -92,27 +64,7 @@ import pomRepo.TC_RegistrationPage_001;
 	    public TC_JewelryPage_001  product2;
 	    public TC_JewelryPage_001 addtocart2;
 	    public TC_JewelryPage_001  logout2;
-	    //////////////////////////////////////////////
-//	    public TC_ApparelAndShoesPage_001  apparelshoeTab;
-//	    public TC_ApparelAndShoesPage_001 sortby3;
-//	    public TC_ApparelAndShoesPage_001 optionZtoA3;
-//	    public TC_ApparelAndShoesPage_001  display3;
-//	    public TC_ApparelAndShoesPage_001  option3;
-//	    public TC_ApparelAndShoesPage_001 viewas3;
-//	    public TC_ApparelAndShoesPage_001  listoption3;
-//	    public TC_ApparelAndShoesPage_001  product3;
-//	    public TC_ApparelAndShoesPage_001 addtocart3;
-//	    public TC_ApparelAndShoesPage_001  logout3;
-	    ///////////////////////////////////////////////////
-//	    public TC_ApparelAndShoesPage_001 sortby4;
-//	    public TC_ApparelAndShoesPage_001 optionZtoA4;
-//	    public TC_ApparelAndShoesPage_001  display4;
-//	    public TC_ApparelAndShoesPage_001  option4;
-//	    public TC_ApparelAndShoesPage_001 viewas4;
-//	    public TC_ApparelAndShoesPage_001  listoption4;
-//	    public TC_ApparelAndShoesPage_001  product4;
-//	    public TC_ApparelAndShoesPage_001 addtocart4;
-//	    public TC_ApparelAndShoesPage_001  logout4;
+	 
 	   
 	   
 	    
